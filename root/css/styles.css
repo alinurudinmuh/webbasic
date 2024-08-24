@@ -1,0 +1,82 @@
+body{
+    margin: auto;
+    font-family:'Arial Narrow Bold', sans-serif;
+}
+.jumbotron {
+     font-size: 20px;
+     padding: 40px;
+     background-color: #aa90d4;
+     text-align: center;
+     color: white;
+ 
+     } 
+
+ nav li {
+     display: inline;
+     list-style-type: none;
+     margin-right: 20px;
+     }      
+ nav {
+     background-color: #720594;
+     padding: 2px;
+     }
+ nav a {
+     font-size: 14px;
+     font-weight: 400;
+     text-decoration: none;
+     color: white;
+     }
+.card {
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+     border-radius: 5px;
+     padding: 20px;
+     margin-top: 20px;
+     text-decoration: none;
+     }
+ h1{
+     color: azure;
+
+ }
+ h2{
+     color: rgba(65, 10, 153, 0.884);          
+}
+ 
+ content {
+ float: left;
+ width: 74%;
+     }
+aside {
+ float: right;
+ width: 25%;
+ }
+footer{
+ text-align: center;
+ float: bottom;
+ background-color: #50144b;
+ padding: 4px;
+ 
+ }
+footer li {
+ display: inline;
+ list-style-type: none;
+ margin-right: 20px;
+  } 
+footer a {
+     font-size: 14px;
+     font-weight: 400;
+     text-decoration: none;
+     color: rgb(14, 13, 13);
+     } 
+
+a:hover {
+     color:#FF0000;
+     
+     }
+main {
+ padding: 20px;
+ overflow: auto;
+ }
+img
+{
+ align: center;
+}
